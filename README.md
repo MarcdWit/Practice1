@@ -8,3 +8,5 @@ course:RMD
 Hi, I’m <Marc>.
 I’m learning how to use GitHub Issues.
 
+## Fun Fact
+Hello world!
